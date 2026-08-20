@@ -1,0 +1,6 @@
+{
+  "snapshot_base_rate": 0.542,
+  "queue_top50_share_declining": 0.88,
+  "n_clients": 32,
+  "n_pages": 30000
+}
