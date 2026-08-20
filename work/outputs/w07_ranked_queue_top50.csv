@@ -1,0 +1,51 @@
+queue_rank,content_id,client_id,priority_score,reason_codes,is_declining_label,content_type,main_intent
+1,content_4560b0a818ab,client_19581e27de,0.9999999997491276,inconsistent visibility: below-median days with impressions in the last 90d,0,keyword article,commercial
+2,content_8e7ba84a972b,client_7f2253d7e2,0.9999219055512091,"elevated by several moderate signals together, no single dominant flag",0,keyword article,informational
+3,content_c8ad1f4d0e56,client_7f2253d7e2,0.9981993647317208,"elevated by several moderate signals together, no single dominant flag",1,keyword article,transactional
+4,content_a22b7f6c73c5,client_7f2253d7e2,0.9963761979869711,"elevated by several moderate signals together, no single dominant flag",1,keyword article,commercial
+5,content_70b8f5323e29,client_7f2253d7e2,0.984409439164066,weak position: average position past the site's typical page,1,keyword article,informational
+6,content_c53566c0e1b1,client_7f2253d7e2,0.9816212813825781,"elevated by several moderate signals together, no single dominant flag",1,keyword article,informational
+7,content_62ed76850efc,client_7f2253d7e2,0.9636082004431339,"elevated by several moderate signals together, no single dominant flag",1,keyword article,informational
+8,content_3f165aff4181,client_7f2253d7e2,0.9608705069584019,"elevated by several moderate signals together, no single dominant flag",0,keyword article,informational
+9,content_921b6efc110c,client_7f2253d7e2,0.9607060153050234,"elevated by several moderate signals together, no single dominant flag",1,keyword article,informational
+10,content_ea60515fd480,client_7f2253d7e2,0.9584134957088943,"elevated by several moderate signals together, no single dominant flag",1,keyword article,informational
+11,content_69fad7e6c50c,client_7f2253d7e2,0.9583496856008091,"elevated by several moderate signals together, no single dominant flag",1,keyword article,informational
+12,content_2dba2b1f9536,client_6208ef0f77,0.9286104461565442,weak position: average position past the site's typical page,0,keyword article,informational
+13,content_89c0c6af0ca5,client_7f2253d7e2,0.9196032491436779,"elevated by several moderate signals together, no single dominant flag",1,keyword article,informational
+14,content_482aff19e9cc,client_7f2253d7e2,0.9060903704109652,weak position: average position past the site's typical page,1,keyword article,commercial
+15,content_5a467b5c7648,client_7f2253d7e2,0.8666327471365328,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+16,content_b08562686d22,client_f369cb89fc,0.8610481259606777,low real-user traffic: below-median users_90d,1,keyword article,informational
+17,content_6e3c3a20e837,client_7f2253d7e2,0.8595450678824466,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+18,content_f986bd514b6e,client_7f2253d7e2,0.8580002469791466,low real-user traffic: below-median users_90d,1,keyword article,
+19,content_fd16e3475c29,client_d029fa3a95,0.8577128582355525,stale: 180+ days since last update; low real-user traffic: below-median users_90d,1,keyword article,informational
+20,content_cd721a77cfdd,client_7f2253d7e2,0.8541762618921078,inconsistent visibility: below-median days with impressions in the last 90d; low real-user traffic: below-median users_90d,1,keyword article,
+21,content_b23fa9e12c1d,client_6208ef0f77,0.8522074045284063,"elevated by several moderate signals together, no single dominant flag",1,keyword article,
+22,content_1100bd1bcf09,client_6208ef0f77,0.8508181895211467,weak position: average position past the site's typical page,1,keyword article,
+23,content_1704f676b4d0,client_7f2253d7e2,0.8500597501876506,inconsistent visibility: below-median days with impressions in the last 90d; low real-user traffic: below-median users_90d,1,keyword article,
+24,content_fb03de774c31,client_7f2253d7e2,0.8472592050489808,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+25,content_d8b8f3280ec2,client_7f2253d7e2,0.8451645914595505,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+26,content_b5d321cbefe8,client_7f2253d7e2,0.8431679072221743,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+27,content_d68a2265c1c0,client_7f2253d7e2,0.8418860177279733,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+28,content_67a766790dd2,client_7f2253d7e2,0.8418693523732282,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,transactional
+29,content_8ede62882d0b,client_f369cb89fc,0.8410040721764035,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,informational
+30,content_453722754fea,client_f369cb89fc,0.840391381057135,"elevated by several moderate signals together, no single dominant flag",1,keyword article,informational
+31,content_998e189cca45,client_7f2253d7e2,0.8393353276536469,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+32,content_dbf3647b968d,client_7f2253d7e2,0.8390703864283529,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+33,content_396217b0dc41,client_7f2253d7e2,0.8385936711469837,low real-user traffic: below-median users_90d,1,keyword article,informational
+34,content_59b7653b71eb,client_7f2253d7e2,0.8380833172291505,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+35,content_af8c97b7c3fc,client_7f2253d7e2,0.8373591127574516,weak position: average position past the site's typical page,1,keyword article,commercial
+36,content_591340797e81,client_6208ef0f77,0.8368544686709114,inconsistent visibility: below-median days with impressions in the last 90d; low real-user traffic: below-median users_90d,1,keyword article,
+37,content_083d1235608e,client_7f2253d7e2,0.8363940341269931,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+38,content_26d48a980581,client_f369cb89fc,0.8352786192398444,low real-user traffic: below-median users_90d,0,keyword article,informational
+39,content_7765ae28f5a8,client_7f2253d7e2,0.8347573817819852,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,0,keyword article,
+40,content_b3e0a7cfca09,client_7f2253d7e2,0.8346821750017394,"elevated by several moderate signals together, no single dominant flag",1,keyword article,informational
+41,content_75fb1c72a2c3,client_7f2253d7e2,0.8340864347972693,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+42,content_31998e499b2a,client_7f2253d7e2,0.8330328103267751,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+43,content_9125007c00e3,client_6208ef0f77,0.8329428430924916,"elevated by several moderate signals together, no single dominant flag",1,keyword article,informational
+44,content_84b4d9b74195,client_7f2253d7e2,0.832817171077374,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+45,content_aa6cb9d42da5,client_6208ef0f77,0.8324645587899344,weak position: average position past the site's typical page,1,keyword article,
+46,content_94174a1189f0,client_7f2253d7e2,0.8312428588977571,inconsistent visibility: below-median days with impressions in the last 90d; low real-user traffic: below-median users_90d,1,keyword article,
+47,content_af16f5d9153b,client_7f2253d7e2,0.8307979294960838,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+48,content_fafb95d57453,client_7f2253d7e2,0.8295034669849719,inconsistent visibility: below-median days with impressions in the last 90d; weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+49,content_787b9931e4e2,client_7f2253d7e2,0.8291593734789628,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
+50,content_4aafa33e6c49,client_7f2253d7e2,0.8289424651031644,weak position: average position past the site's typical page; low real-user traffic: below-median users_90d,1,keyword article,
